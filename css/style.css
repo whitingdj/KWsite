@@ -459,6 +459,10 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 	display:block;
 }
 
+.icons .fa {
+	color: #d43076;
+}
+
 /* ===========================
 --- Footer
 ============================ */
@@ -483,7 +487,10 @@ footer a:hover {
 .credits {
     color: #fff;
 }
-
+.template a{
+    color: rgb(185, 172, 172);
+    font-size: 8px;
+}
 /* ==========================
 Parallax
 ============================= */
